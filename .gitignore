@@ -7,8 +7,8 @@ build/
 classic.json
 classic.jsonp
 ext/
-modern.json
-modern.jsonp
-resources/sass/.sass-cache/
-resources/.arch-internal-preview.css
+js/extjs42
+resources/documents
+resources/images
+resources/fa-563
 .arch-internal-preview.css
